@@ -1,0 +1,62 @@
+
+  .nav{
+    position: fixed;
+    background-color: #0b0b0b;
+  }
+  
+  
+  .navbar-brand {
+    color: #f35906; /* White text color for the brand/logo */
+    font-size: 50px;
+  }
+  .navbar-brand:hover{
+    color: #f35906;
+    
+  }
+  
+  .navbar-nav {
+    margin-left: 0; 
+    
+  }
+  
+  .nav-link {
+    color: #faf8f8; /* White text color for the navigation links */
+    margin-right: 1cm; /* Add spacing between navigation items */
+  }
+  
+  .nav-link:hover {
+    color: #f35906; /* Lighten the text color on hover */
+  }
+  
+  /* Adjust padding for better spacing */
+  .navbar {
+    padding: 15px;
+  }
+  
+  /* Add a box shadow for a subtle elevation effect */
+  .navbar {
+    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
+  }
+  
+  /* Media query for smaller screens */
+  /* @media (max-width: 768px) {
+    .navbar-nav {
+      margin-left: 0;
+    }
+  
+    .nav-link {
+      margin-right: 10px; 
+      text-decoration: none;
+      
+    }
+  } */
+  .me-auto{
+    text-decoration: none;
+    font-size: 20px;
+    margin-left: 70px;
+    margin-right: 0%;
+  }
+  Navbar{
+    position: fixed;
+  }
+  
