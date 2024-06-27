@@ -3,7 +3,7 @@ import { BrowserRouter, Routes, Route } from 'react-router-dom';
 import { UserProvider } from './components/pages/UserContext';
 import UserInitializer from './components/pages/userInitializer';
 import NavigationBar from './components/common/navigation';
-// import Chatbot from './components/Chatbot';
+
 import OrderedItemPage from './components/pages/OrderedItemPage';
 import Menu from './components/pages/menu';
 import HomePage from './components/pages/home';
@@ -20,7 +20,7 @@ const App = () => {
       <BrowserRouter>
         <UserInitializer>
           <NavigationBar />
-          {/* <Chatbot /> */}
+          
           <div className="container">
             <Routes>
               <Route path="/" element={<HomePage />} />
