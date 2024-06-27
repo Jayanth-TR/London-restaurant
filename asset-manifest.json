@@ -1,18 +1,18 @@
 {
   "files": {
-    "main.css": "/static/css/main.6a26ebde.css",
-    "main.js": "/static/js/main.c1f80a0a.js",
-    "static/media/menu-bg.jpg": "/static/media/menu-bg.dfd17ec9ca6abb90328c.jpg",
-    "static/media/home.jpg": "/static/media/home.307703b55cd9ef631eae.jpg",
-    "static/media/navyblue.jpg": "/static/media/navyblue.9165d5a25a31a3a5b027.jpg",
-    "static/media/login.jpg": "/static/media/login.f875624d00c88dbb7aa3.jpg",
-    "static/media/home-back.jpg": "/static/media/home-back.ad43cd4fead0348d2557.jpg",
-    "index.html": "/index.html",
-    "main.6a26ebde.css.map": "/static/css/main.6a26ebde.css.map",
-    "main.c1f80a0a.js.map": "/static/js/main.c1f80a0a.js.map"
+    "main.css": "/London-restaurant/static/css/main.c6e8741a.css",
+    "main.js": "/London-restaurant/static/js/main.c1f80a0a.js",
+    "static/media/menu-bg.jpg": "/London-restaurant/static/media/menu-bg.dfd17ec9ca6abb90328c.jpg",
+    "static/media/home.jpg": "/London-restaurant/static/media/home.307703b55cd9ef631eae.jpg",
+    "static/media/navyblue.jpg": "/London-restaurant/static/media/navyblue.9165d5a25a31a3a5b027.jpg",
+    "static/media/login.jpg": "/London-restaurant/static/media/login.f875624d00c88dbb7aa3.jpg",
+    "static/media/home-back.jpg": "/London-restaurant/static/media/home-back.ad43cd4fead0348d2557.jpg",
+    "index.html": "/London-restaurant/index.html",
+    "main.c6e8741a.css.map": "/London-restaurant/static/css/main.c6e8741a.css.map",
+    "main.c1f80a0a.js.map": "/London-restaurant/static/js/main.c1f80a0a.js.map"
   },
   "entrypoints": [
-    "static/css/main.6a26ebde.css",
+    "static/css/main.c6e8741a.css",
     "static/js/main.c1f80a0a.js"
   ]
 }
